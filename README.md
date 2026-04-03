@@ -27,11 +27,16 @@ pip install -r requirements.txt
 ## 📂 Project Structure:
 
 Superstore-Analysis/
+
 │── requirements.txt
+
 │── Sample - Superstore.csv
+
 │── app.py                
-│── dashboards/           
-│── README.md            
+
+│── dashboards         
+
+        
 
 
 ## Result:
